@@ -55,9 +55,9 @@ npm start
 
 
 ```
-📜 API Endpoints
+## 📜 API Endpoints
 
-🔐 Authentication
+### 🔐 Authentication
 
 POST /register → Register a new user
 
@@ -67,7 +67,7 @@ POST /verify-email → Verify email for password reset
 
 POST /reset-password → Reset user password
 
-📘 Courses
+### 📘 Courses
 
 POST /generatecode → Generate a new course code
 
